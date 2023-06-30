@@ -99,7 +99,7 @@ export class CarrinhoService {
       componentProps: { total: total },
       showBackdrop: true,
       backdropDismiss: true,
-      cssClass: ['modal-75']
+      cssClass: ['modal-65']
     })
 
     await modal.present()

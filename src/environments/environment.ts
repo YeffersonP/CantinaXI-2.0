@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  baseUrl: 'http://cantinaxi.devcity.com.br/'
+  baseUrl: 'http://localhost:8080'
 };
 
 /*
